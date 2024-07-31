@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/bin/Debug/net8.0/PolymorphismExample
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/bin/Debug/net8.0/PolymorphismExample.deps.json
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/bin/Debug/net8.0/PolymorphismExample.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/bin/Debug/net8.0/PolymorphismExample.dll
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/bin/Debug/net8.0/PolymorphismExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.dll
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/refint/PolymorphismExample.dll
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/PolymorphismExample.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/PolymorphismExample/obj/Debug/net8.0/ref/PolymorphismExample.dll
