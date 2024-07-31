@@ -16,7 +16,7 @@ namespace OOP
             get{return _height;}
             set{_height = value;}
         }
-        public virtual int AlanHesaplama()
+        public virtual int AlanHesaplama() // diğer sınıflarda manipüle edilebilmesi  için virtual tanımladık.
         {
             return Width * Height;
         }
